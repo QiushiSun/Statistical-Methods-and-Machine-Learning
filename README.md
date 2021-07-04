@@ -19,3 +19,13 @@
    1. PCA & KNN based MNIST Recognition（基于主成分分析和K近邻算法的手写数字识别）
    2. News Classification based on Naive Bayes（基于朴素贝叶斯的新闻文本分类）
    3. Face Recognition（简易人脸识别）
+3. 机器学习理论作业
+
+
+
+参考资料
+
+1. [Stanford cs 229 Machine Learning CheatSheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+2. [Datawhale China 统计学习方法习题解答](https://datawhalechina.github.io/statistical-learning-method-solutions-manual/#/)
+3. [UC Irvine Machine Learning Data Sets](http://archive.ics.uci.edu/ml/index.php)
+
